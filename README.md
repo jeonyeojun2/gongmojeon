@@ -7,5 +7,5 @@
 게임이 끝나면 최종점수가 출력된다.
 
 ## 스크린샷
-![turtlerunaway](turtle_runaway.png)
+![turtle_runaway](https://github.com/user-attachments/assets/bfb8204b-ee90-4a37-9026-d8f3e6d0a218)
 
